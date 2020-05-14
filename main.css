@@ -1,0 +1,25 @@
+body {
+    background-image: url('Images/Photo\ 17.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px;
+    border: none;
+    cursor: pointer;
+    width: 20%;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 25%;
+}
+
+p {
+    text-align: center;
+}
